@@ -47,6 +47,19 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 ## Conference Papers
 
+- **Neuro-Symbolic Data Generation for Math Reasoning.** <br>
+Zenan Li, **Zhi Zhou (co-first author)**, Yuan Yao, Xian Zhang, Yu-Feng Li, Chun Cao, Fan Yang, Xiaoxing Ma. <br>
+In: Advances in Neural Information Processing Systems, Vancouver, 2024. <br>
+<span style="color:blue">NeurIPS 2024.</span>
+<span style="color:grey">CCF-A.</span>
+
+- **LSPAN: Spectrally Localized Augmentation for Graph Consistency Learning.** <br>
+Heng-Kai Zhang, Yi-Ge Zhang, **Zhi Zhou**, Yu-Feng Li. <br>
+In: Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, Jeju, 2024.<br>
+<span style="color:blue">IJCAI 2024.</span>
+<span style="color:grey">CCF-A.</span>
+[[Paper]](https://www.ijcai.org/proceedings/2024/0604.pdf) 
+
 - **DeCoOp: Robust Prompt Tuning with Out-of-Distribution Detection.** <br>
 **Zhi Zhou**, Ming Yang, Jiang-Xin Shi, Lan-Zhe Guo, Yu-Feng Li. <br>
 In: Proceedings of the 41th International Conference on Machine Learning, Vienna, 2024.<br>
