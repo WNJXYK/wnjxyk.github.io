@@ -49,7 +49,7 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 - **Fully Test-time Adaptation for Tabular Data.** <br>
 **Zhi Zhou**, Kun-Yang Yu, Lan-Zhe Guo, Yu-Feng Li. <br>
-In: Proceedings of the 39th AAAI conference on Artificial Intelligence, Philadelphia, 2024. <br>
+In: Proceedings of the 39th AAAI conference on Artificial Intelligence, Philadelphia, 2025. <br>
 <span style="color:blue">AAAI 2025.</span>
 <span style="color:grey">CCF-A.</span>
 
