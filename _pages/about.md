@@ -47,6 +47,12 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 ## Conference Papers
 
+- **Fully Test-time Adaptation for Tabular Data.** <br>
+**Zhi Zhou**, Kun-Yang Yu, Lan-Zhe Guo, Yu-Feng Li. <br>
+In: Proceedings of the 39th AAAI conference on Artificial Intelligence, Philadelphia, 2024. <br>
+<span style="color:blue">AAAI 2025.</span>
+<span style="color:grey">CCF-A.</span>
+
 - **Neuro-Symbolic Data Generation for Math Reasoning.** <br>
 Zenan Li, **Zhi Zhou (co-first author)**, Yuan Yao, Xian Zhang, Yu-Feng Li, Chun Cao, Fan Yang, Xiaoxing Ma. <br>
 In: Advances in Neural Information Processing Systems, Vancouver, 2024. <br>
@@ -55,7 +61,7 @@ In: Advances in Neural Information Processing Systems, Vancouver, 2024. <br>
 
 - **LSPAN: Spectrally Localized Augmentation for Graph Consistency Learning.** <br>
 Heng-Kai Zhang, Yi-Ge Zhang, **Zhi Zhou**, Yu-Feng Li. <br>
-In: Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, Jeju, 2024.<br>
+In: Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, Jeju, 2024. Page: 5462-5470.<br>
 <span style="color:blue">IJCAI 2024.</span>
 <span style="color:grey">CCF-A.</span>
 [[Paper]](https://www.ijcai.org/proceedings/2024/0604.pdf) 
@@ -81,13 +87,13 @@ In: Proceedings of the 12th International Conference on Learning Representations
 
 - **HONGAT: Graph Attention Networks in the Presence of High-Order Neighbors**. <br>
 Heng-Kai Zhang, Yi-Ge Zhang, **Zhi Zhou**, Yu-Feng Li. <br>
-In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. <br>
+In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. Page: 16750-16758.<br>
 <span style="color:blue">AAAI 2024.</span>
 <span style="color:grey">CCF-A.</span>
 
 - **Robust Test-Time Adaptation for Zero-Shot Prompt Tuning.** <br>
 Ding-Chu Zhang, **Zhi Zhou (co-first author)**, Yu-Feng Li. <br>
-In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. <br>
+In: Proceedings of the 38th AAAI conference on Artificial Intelligence, Vancouver, 2024. Page: 16714-16722.<br>
 <span style="color:blue">AAAI 2024.</span>
 <span style="color:grey">CCF-A.</span>
 [[Paper]](../resources/AAAI2024_AdaPrompt.pdf) 
@@ -193,7 +199,6 @@ NeurIPS 2023 Diffusion Workshop. <br>
 
 - LawGPT: A Large Language Model in the Legal Domain. [[GitHub]](https://github.com/pengxiao-song/LaWGPT) 
 - LAMDA-SSL: A Comprehensive and Easy-to-Use Toolkit for Semi-Supervised Learning. [[GitHub]](https://github.com/YGZWQZD/LAMDA-SSL) 
-<!-- - USB: A Unified Semi-supervised learning Benchmark for CV, NLP, and Audio Classification. [[GitHub]](https://github.com/microsoft/Semi-supervised-learning) -->
 
 # 💻 Project
 
@@ -228,9 +233,9 @@ NeurIPS 2023 Diffusion Workshop. <br>
 - Senior Program Committee Member, ACML 2022.
 - Program Committee Member, NeurIPS 2022/2023/2024.
 - Program Committee Member, ICML 2022/2023/2024.
-- Program Committee Member, ICLR 2024.
+- Program Committee Member, ICLR 2024/2025.
 - Program Committee Member, KDD 2024.
-- Program Committee Member, AAAI 2023/2024.
+- Program Committee Member, AAAI 2023/2024/2025.
 - Program Committee Member, ECAI 2023/2024.
 
 ## Journal Reviewer
@@ -241,7 +246,6 @@ NeurIPS 2023 Diffusion Workshop. <br>
 ## Teaching Assistant
 - *2022.02 - 2022.06*, Teaching Assistant for Introduction to Advanced Machine Learning, Nanjing Univeristy.
 - *2021.09 - 2022.01*, Teaching Assistant for Introduction to Machine Learning, Nanjing Univeristy.
-
 
 # 📖 Education
 - *2022.09 - Now*, Ph.D., Computer Science and Technology, Nanjing University, Nanjing.
