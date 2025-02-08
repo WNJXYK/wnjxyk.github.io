@@ -47,6 +47,13 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 ## Conference Papers
 
+- **CARTS: Advancing Neural Theorem Proving with Diversified Tactic Calibration and Bias-Resistant Tree Search** <br>
+Xiao-Wen Yang, **Zhi Zhou**, Haiming Wang, Aoxue Li, Wen-Da Wei, Hui Jin, Zhenguo Li, Yu-Feng Li. <br>
+In: Proceedings of the 13th International Conference on Learning Representations, Singapore, 2025. <br>
+<span style="color:blue">ICLR 2025.</span>
+<span style="color:grey">CAAI-A.</span>
+[[Page]](https://openreview.net/forum?id=VQwI055flA) 
+
 - **Fully Test-time Adaptation for Tabular Data.** <br>
 **Zhi Zhou**, Kun-Yang Yu, Lan-Zhe Guo, Yu-Feng Li. <br>
 In: Proceedings of the 39th AAAI conference on Artificial Intelligence, Philadelphia, 2025. <br>
@@ -191,12 +198,20 @@ Journal of Software (软件学报), 35(4), 2024. <br>
 <span style="color:grey">CCF-A.</span>
 [[Paper]](http://www.jos.org.cn/jos/article/abstract/7009?st=article_issue&bsh_bid=5968787845)
 
+## Preprint
+
+- **LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM** <br>
+**Zhi Zhou**, Kun-Yang Yu, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Peng-Xiao Song, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li. <br>
+Under Review. <br>
+[[Paper]](./resources/preprint/LawGPT.pdf)
+
 ## Other Papers
 
 - **You Only Submit One Image to Find the Most Suitable Generative Model** <br>
 **Zhi Zhou**, Lan-Zhe Guo, Pengxiao Song, Yu-Feng Li. <br>
 NeurIPS 2023 Diffusion Workshop. <br>
 [[Page]](https://neurips.cc/virtual/2023/74865)
+[[Paper]](https://arxiv.org/abs/2412.12232)
 
 # 🛠 Software
 
@@ -233,9 +248,10 @@ NeurIPS 2023 Diffusion Workshop. <br>
 
 ## Conference Committee
 
+- Senior Program Committee Member, IJCAI 2025.
 - Senior Program Committee Member, ACML 2022.
 - Program Committee Member, NeurIPS 2022/2023/2024.
-- Program Committee Member, ICML 2022/2023/2024.
+- Program Committee Member, ICML 2022/2023/2024/2025.
 - Program Committee Member, ICLR 2024/2025.
 - Program Committee Member, KDD 2024.
 - Program Committee Member, AAAI 2023/2024/2025.
@@ -244,6 +260,8 @@ NeurIPS 2023 Diffusion Workshop. <br>
 ## Journal Reviewer
 - Reviewer for Machine Learning Journal (MLJ)
 - Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Reviewer for Frontiers of Computer Science (FCS)
 
 ## Teaching Assistant
